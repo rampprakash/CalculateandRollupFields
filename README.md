@@ -5,6 +5,7 @@ Working with Calculate and Rollup Fields
 Attached file 
 
 DemoSolution_1_0_0_2_managed --> Managed Solution
+
 DemoSolution_1_0_0_1 --> Unmanaged Solution
 
 Steps to Import Solutions:
